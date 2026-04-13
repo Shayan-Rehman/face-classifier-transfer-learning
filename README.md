@@ -6,7 +6,7 @@ This project uses transfer learning with a pretrained ResNet18 model from PyTorc
 The project includes:
 - a Jupyter notebook for training and evaluation
 - a Streamlit app for real-time image classification
-- a saved PyTorch model file
+- a trained PyTorch model file (generated after training)
 
 ## Files
 - `CNN_Transfer_Learning.ipynb` - training notebook

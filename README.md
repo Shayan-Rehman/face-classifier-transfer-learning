@@ -1,7 +1,7 @@
 # Real-Time Face Classifier using Transfer Learning
 
 ## Overview
-This project uses transfer learning with a pretrained ResNet18 model from PyTorch Torchvision to classify whether an uploaded facial image belongs to a target person or not.
+This project uses transfer learning with a pretrained ResNet18 model from PyTorch Torchvision to classify whether an uploaded facial image belongs to a target person or not. The model achieves approximately 85–90% accuracy on a custom dataset of facial images.
 
 The project includes:
 - a Jupyter notebook for training and evaluation

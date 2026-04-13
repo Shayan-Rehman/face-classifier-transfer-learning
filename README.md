@@ -11,7 +11,15 @@ The project includes:
 ## Files
 - `CNN_Transfer_Learning.ipynb` - training notebook
 - `app.py` - Streamlit web app
-- `face_classifier.pth` - trained model weights
+-  face_classifier.pth - generated after training (not included due to size)
+
+## Model File
+
+The trained model file (`face_classifier.pth`) is not included in this repository due to GitHub file size limits.
+
+To generate the model file:
+1. Run the Jupyter notebook (`CNN_Transfer_Learning.ipynb`)
+2. The model will be saved automatically at the end of training
 
 ## Tools Used
 - Python
